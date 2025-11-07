@@ -1,1 +1,1 @@
-print('Halo Dunia dari Git!')
+ print('Halo. Ini adalah fitur baru.')
